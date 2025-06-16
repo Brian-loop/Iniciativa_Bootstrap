@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+}
+.cabecario{
+    background-color: tomato;
+    height: px;
+}
+.btn-outline-dark{
+    border: none;
+}
+.parte2{
+    height: 678px;
+    background-color: blue;
+}
+.parte2>figure>img{
+    height: 678px;
+    width: 50%;
+}
+.container-md{
+    background-color: brown;
+}
