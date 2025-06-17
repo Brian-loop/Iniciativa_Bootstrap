@@ -1,21 +1,49 @@
 *{
     margin: 0;
 }
-.cabecario{
-    background-color: tomato;
-    height: px;
+.logo{
+    height: 66px;
+    margin-right: 31%;
 }
-.btn-outline-dark{
+.btn-outline-secondary, .btn-outline-light{
     border: none;
 }
-.parte2{
-    height: 678px;
-    background-color: blue;
+.d-block{
+    height: 800px;
 }
-.parte2>figure>img{
+.card2{
     height: 678px;
-    width: 50%;
 }
-.container-md{
+.img-fluid{
+    height: 678px;
+} 
+.texto{
+    text-align: justify;
+    margin: 40px 50px 0px 50px;
+}
+.personal-img{
+    margin-left: 24%;
+}
+.parte3{
+    height: 700px;
     background-color: brown;
+}
+.parte4{
+    height: 800px;
+    background-color: blanchedalmond;
+}
+.a{
+    width: 700px;
+}
+.table{
+    margin: 200px 40px 0px 40px;
+}
+.personal2-img{
+    width: 500px;
+    height: 300px;
+    margin-left: 20%;
+}
+.texto2{
+    text-align: justify;
+    margin: 50px 70px 0px 100px;
 }
