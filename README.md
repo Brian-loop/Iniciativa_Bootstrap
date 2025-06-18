@@ -142,7 +142,7 @@ Overview #
 ```
 
 ----
-#### Link do trabalho 	:ghost: :skull:
+#### Link do trabalho 	 :ghost:  :skull:
 [ACADEMIA](https://brian-loop.github.io/Iniciativa_Bootstrap/)     <--
 
 Projeto começado dia 17/06 as 8:30 am
